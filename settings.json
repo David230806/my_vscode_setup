@@ -1,0 +1,136 @@
+{
+  // "editor.wordWrap":"bounded",
+  "editor.wrappingIndent": "same",
+  "editor.wordWrapColumn": 70,
+  // "editor.folding": false,
+  "editor.insertSpaces": false,
+  "editor.smoothScrolling": true,
+  // "editor.minimap.enabled": false,
+  "editor.detectIndentation": true,
+  "editor.suggestSelection": "first",
+
+  "editor.scrollBeyondLastLine": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+
+  "editor.cursorBlinking": "expand",
+  "editor.glyphMargin": true,
+
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Caskaydia Nerd Font Mono', Dank Mono, IBM Plex Momo",
+
+  "explorer.compactFolders": false,
+
+  "dart.debugExternalLibraries": true,
+  "dart.debugSdkLibraries": true,
+
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always",
+    "source.fixAll": "explicit"
+  },
+
+  // "editor.scrollbar.horizontal": "hidden",
+  // "editor.scrollbar.vertical": "hidden",
+
+  "workbench.iconTheme": "vscode-great-icons",
+  "files.autoSave": "afterDelay",
+
+  "editor.linkedEditing": true,
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.associations": {
+    "*.jss": "javascript",
+    "*.html": "html"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "terminal.integrated.inheritEnv": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "git.autofetch": true,
+  "prettier.printWidth": 420,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.largeFileOptimizations": false,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "OwO Dark",
+  "editor.accessibilitySupport": "off",
+  "window.commandCenter": true,
+  "eslint.codeActionsOnSave.rules": null,
+  "editor.minimap.renderCharacters": false,
+  "workbench.startupEditor": "none",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.settings.applyToAllProfiles": [],
+  "glassit.alpha": 230,
+  "terminal.integrated.env.linux": {},
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "explorer.confirmPasteNative": false,
+  "terminal.integrated.fontFamily": "SymbolsNerdFont-Regular",
+  "hediet.vscode-drawio.resizeImages": null,
+  "workbench.statusBar.visible": false,
+  "editor.minimap.enabled": false,
+  "workbench.sideBar.location": "right",
+  // "[typescriptreact]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  // "[typescript]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+
+  "editor.copyWithSyntaxHighlighting": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.emptySelectionClipboard": true,
+  "workbench.editor.enablePreview": false,
+  "window.newWindowDimensions": "inherit",
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.renderSideBySide": false,
+  "editor.snippetSuggestions": "bottom",
+  "window.nativeFullScreen": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "workbench.editor.showTabs": "none",
+  "editor.lineNumbers": "on",
+  "editor.guides.indentation": false,
+  "keyboard.dispatch": "keyCode",
+
+  // Silence the Noise
+  "breadcrumbs.enabled": false,
+  "scm.diffDecorations": "none",
+  "editor.hover.delay": 700,
+  "editor.hover.enabled": true,
+  "editor.matchBrackets": "never",
+  "workbench.tips.enabled": false,
+  "editor.colorDecorators": false,
+  "git.decorations.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.selectionHighlight": false,
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": "off",
+  "problems.decorations.enabled": true,
+  "editor.renderControlCharacters": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+
+  "vscode_custom_css.imports": ["file:///media/david-balasanyan/customvscode.css", "file:///media/david-balasanyan/customvscode.js"],
+  "terminal.integrated.tabs.enabled": false,
+
+  "workbench.colorCustomizations": {
+    "list.errorForeground": "#E4003A", // Changes the text color of files with errors to green
+    "list.warningForeground": "#FFDE4D" // Changes the text color of files with warnings
+  },
+  "window.menuBarVisibility": "toggle"
+}
