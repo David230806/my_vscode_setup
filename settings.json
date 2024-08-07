@@ -125,7 +125,7 @@
   "editor.gotoLocation.multipleImplementations": "goto",
   "editor.gotoLocation.multipleTypeDefinitions": "goto",
 
-  "vscode_custom_css.imports": ["file:///media/david-balasanyan/customvscode.css", "file:///media/david-balasanyan/customvscode.js"],
+  "vscode_custom_css.imports": ["file:///media/david-balasanyan/custom-vscode.css", "file:///media/david-balasanyan/custom-vscode.js"],
   "terminal.integrated.tabs.enabled": false,
 
   "workbench.colorCustomizations": {
